@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main() {
-	FILE* file = fopen ("./inputs/inputinput1.txt", "r");
+	FILE* file = fopen ("./inputs/input1.txt", "r");
 	int len1, len2, i;
 	
 	fscanf(file, "%d", &len1);
