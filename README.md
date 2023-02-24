@@ -1,6 +1,6 @@
 # Download
 
-Simply use the command <code>git clone <i>RepoHttpsl</i></code> to make it local.
+Simply use the command <code>git clone <i>RepoHttps</i></code> to make it local.
 
 # Guidance
 
