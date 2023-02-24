@@ -1,7 +1,7 @@
 void option5() {
 	FILE* file = fopen ("./inputs/input5.txt", "r");
 	long n;
-	fscanf(file, "%d", &n);
+	fscanf(file, "%ld", &n);
 	fclose(file);
 	
 	printf("Number of ways to get %dVND from 10k, 20k and 50k: ", n);
