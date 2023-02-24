@@ -49,7 +49,7 @@ int main() {
 				//option4();
 				break;
 			case '5':
-				//option5();
+				option5();
 				break;
 			case '6':
 				//option6();
