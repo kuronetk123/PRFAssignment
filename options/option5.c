@@ -1,5 +1,3 @@
-#include <stdio.h>
-
 void option5() {
 	FILE* file = fopen ("./inputs/input5.txt", "r");
 	long n;
